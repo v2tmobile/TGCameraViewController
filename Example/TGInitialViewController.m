@@ -34,7 +34,7 @@
     [TGCamera setOption:kTGCameraOptionSaveImageToAlbum value:@YES];
     
     // use the original image aspect instead of square
-    [TGCamera setOption:kTGCameraOptionUseOriginalAspect value:@YES];
+    [TGCamera setOption:kTGCameraOptionUseOriginalAspect value:@NO];
     
     // hide switch camera button
     //[TGCamera setOption:kTGCameraOptionHiddenToggleButton value:@YES];

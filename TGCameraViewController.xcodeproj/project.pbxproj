@@ -218,7 +218,7 @@
 					};
 					F82F8E8019C4EFE700A47148 = {
 						CreatedOnToolsVersion = 6.0;
-						DevelopmentTeam = Y4SG6NS2UK;
+						DevelopmentTeam = 632H5X25S2;
 					};
 				};
 			};
@@ -540,6 +540,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 632H5X25S2;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "NZN.Tudo-Gostoso.TGCameraViewController.example";
@@ -557,6 +558,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 632H5X25S2;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "NZN.Tudo-Gostoso.TGCameraViewController.example";
